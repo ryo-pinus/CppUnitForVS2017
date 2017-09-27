@@ -1,5 +1,6 @@
 # CppUnitForVS2017（CppUnit for Visual Studio 2017）
 
+[![Build status](https://ci.appveyor.com/api/projects/status/dsaq60uji7ivgphw?svg=true)](https://ci.appveyor.com/project/ryo-pinus/cppunitforvs2017)
 
 ## 概要
 
